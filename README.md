@@ -2,5 +2,7 @@
 Web Development Journey  Welcome to my web development journey repository! This repository is a collection of projects, experiments, practice files, and concepts that I explore while learning and building in the world of web development. 
   
 Projects:
+
 1.Basic calculator
-basic-calculator-gamma-beige.vercel.app
+
+https://basic-calculator-gamma-beige.vercel.app/
