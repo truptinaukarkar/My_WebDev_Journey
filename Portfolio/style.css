@@ -1,0 +1,192 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: #f4f4f4;
+}
+
+header{
+    margin:10px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    color:rgb(31, 194, 16);
+}
+
+.nav{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-right: 0;
+}
+
+a:hover{
+    color: rgb(31, 194, 16);
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+
+.btn{
+    padding: 10px 20px;
+    background-color: rgb(31, 194, 16);
+    color: white;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+
+.btn:hover{
+    background-color: rgb(21, 165, 8);
+
+}
+
+.home{
+    margin:0px;
+    padding: 20px 50px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    background-color: rgb(186, 245, 230);
+}
+
+.image{
+    width: 300px;
+    height: 300px;
+}
+.image img{
+    border-radius: 50px;
+    margin: 20px;
+
+}
+
+.About{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+    margin:0px;
+    padding: 20px 50px;
+}
+
+.image2{
+    width: 300px;
+    height: 300px;
+    margin:10px;
+    padding: 10px;  
+}
+
+.image2 img{
+    border-radius: 50px;
+    margin: 20px;
+
+}
+
+.heading{
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(5, 22, 3);
+}
+
+.txt2{
+    margin:10px;
+    padding: 10px;
+}
+
+#intro{
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+#txt3{
+    font-size: 15px;
+    margin:0px;
+    padding: 0px;
+    color: rgb(79, 82, 79);
+}
+
+#txt4{
+    font-size: 12px;
+    margin-bottom: 20px;
+    color: rgb(118, 122, 118);
+}
+
+.services{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(186, 245, 230);
+
+}
+
+.ser{
+    display: flex;
+    justify-content: center;
+    margin:0px;
+    gap: 30px;
+    padding: 20px 50px;
+
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    border: 1.5px solid black;
+    margin: 10px;
+    padding: 10px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: #eff5f5;
+}
+
+.containt{
+    font-size: smaller;
+    color: rgb(87, 90, 87);
+}
+
+.contact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    gap: 20px;
+}
+
+input{
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.message-label{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+}
+
+textarea{
+    width: 300px;
+    height: 80px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
