@@ -6,3 +6,7 @@ Projects:
 1.Basic calculator
 
 https://basic-calculator-gamma-beige.vercel.app/
+
+2.portfolio landin page
+
+https://porfolio-landing-page.vercel.app/
