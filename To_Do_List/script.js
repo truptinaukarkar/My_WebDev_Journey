@@ -81,7 +81,7 @@ function render(){
         }
     });
 
-    if(list.innerHTML===''){
+    if(list.innerHTML===''&& done.innerHTML!==''){
         const message= document.createElement('h2');
         message.textContent="🎉 Hurray! You’ve completed all your Tasks ✅"
         message.style.fontSize='18px';
