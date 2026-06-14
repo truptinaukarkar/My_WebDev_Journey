@@ -7,7 +7,7 @@ Projects:
 
 https://basic-calculator-gamma-beige.vercel.app/
 
-2.portfolio landin page(HTML, CSS)
+2.portfolio landing page(HTML, CSS)
 
 https://porfolio-landing-page.vercel.app/
 
