@@ -3,10 +3,14 @@ Web Development Journey  Welcome to my web development journey repository! This 
   
 Projects:
 
-1.Basic calculator
+1.Basic calculator(HTML, CSS, JS)
 
 https://basic-calculator-gamma-beige.vercel.app/
 
-2.portfolio landin page
+2.portfolio landin page(HTML, CSS)
 
 https://porfolio-landing-page.vercel.app/
+
+3.Todo list website(HTML, CSS, JS)
+
+https://todolist10-chi.vercel.app/
