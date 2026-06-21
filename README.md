@@ -18,3 +18,12 @@ https://todolist10-chi.vercel.app/
 4.Weather_app(HTML, CSS, JS, APIs)
 
 https://weatherapp-phi-coral.vercel.app/
+
+5.TODO app (With React-Vite)
+
+https://todowithreact-xi.vercel.app/
+
+6.Food Recipe App (React-Vite)
+
+foodrecipeappusingreact.vercel.app
+
