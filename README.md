@@ -25,5 +25,4 @@ https://todowithreact-xi.vercel.app/
 
 6.Food Recipe App (React-Vite)
 
-foodrecipeappusingreact.vercel.app
-
+https://foodrecipeappusingreact.vercel.app/
