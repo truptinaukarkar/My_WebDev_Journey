@@ -1,0 +1,53 @@
+.itemContainer{
+    width: 500px;
+    height: 200px;
+    border: 8px;
+    box-shadow: 0 4px 6px rgb(0,0,0,0.1);
+    margin: 20px;
+    overflow: hidden;
+    font-family: Polysans, sans-serif;
+    border-radius: 8px;
+    display: flex;
+}
+
+.itemImage{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.itemContent{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.itemTitle{
+    font-size: 1.1em;
+    font-weight: 550;
+    color:#393e46;
+    letter-spacing: 0.5px;
+}
+.itemButton{
+    background-color: #29bb89;
+    border: none;
+    color: white;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 5px;
+
+}
+
+.buttonContainer{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}

@@ -1,0 +1,32 @@
+
+.item{
+    width: 500px;
+    color: #404440;
+    font-size: 30px;
+    margin: 0 auto;
+}
+
+.itemName{
+    font-weight: bold;
+    padding: 10px;
+
+}
+
+.line{
+    border: 1px solid #f4f4f4;
+}
+
+.Delbtn{
+    float: right;
+    padding: 8px 15px;
+    border: none;
+    background-color: rgb(250, 205, 137);
+    border-radius: 8px;
+    color: red;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.completed{
+    text-decoration: line-through;
+}
