@@ -1,5 +1,5 @@
 import FoodList from "./components/FoodList.jsx";
-import Nav from "./components/nav.jsx";
+import Nav from "./components/Nav.jsx";
 import Search from "./components/Search.jsx"
 import { useState } from "react";
 import "./App.css";
